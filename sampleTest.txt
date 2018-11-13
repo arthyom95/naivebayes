@@ -1,0 +1,6 @@
+d5	0	just great
+d6	1	sad and boring
+d7	0	great great
+d8	0	enjoyable
+d9	1	sad movie
+d10	1	just boring

@@ -1,0 +1,5 @@
+d0	0	great movie 
+d1	0	just great and enjoyable      
+d2	0	sad movie but enjoyable 
+d3	1	cheap and cheap         
+d4	1	great sad and boring
